@@ -1,0 +1,21 @@
+
+mammal:
+  - "monkey"
+  - "whale"
+  - "dog"
+fish:
+  - "tang"
+  - "angelfish"
+  - "shark"
+amphibian:
+  - "frog"
+  - "axolotl"
+  - "salamander"
+reptile:
+  - "snake"
+  - "alligator"
+  - "lizard"
+bird:
+  - "cardinal"
+  - "blue jay"
+  - "ostrich"
